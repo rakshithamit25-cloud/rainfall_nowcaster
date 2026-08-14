@@ -1,0 +1,6 @@
+streamlit
+streamlit-js-eval
+requests
+pandas
+numpy
+plotly
